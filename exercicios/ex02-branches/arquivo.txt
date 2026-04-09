@@ -1,0 +1,8 @@
+O que aprendi sobre o uso de Branches no Git:
+
+Branches servem para desenvolver novas funcionalidades de forma isolada, sem correr o risco de quebrar o código principal (que fica na branch 'main').
+
+Boas práticas que entendi:
+1. Nunca trabalhar direto na main se for criar algo novo.
+2. Nomear a branch indicando o que ela faz (ex: feat/tela-login ou docs/anotacoes).
+3. Depois que o trabalho na branch termina, nós a unimos à main através de um Merge ou abrindo um Pull Request no GitHub para que o código seja revisado antes de ser integrado.

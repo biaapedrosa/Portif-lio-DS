@@ -1,0 +1,11 @@
+O que aprendi sobre Commits Semânticos (Conventional Commits):
+
+O padrão de commits semânticos serve para comunicar claramente a intenção de cada mudança no código.
+
+Tipos mais comuns que aprendi a usar:
+- feat: Quando crio uma funcionalidade nova ou um arquivo novo.
+- fix: Quando corrijo algum erro no código.
+- docs: Quando altero apenas arquivos de texto ou documentação (ex: README).
+- chore: Para configurações e tarefas que não afetam o código do usuário.
+
+Isso deixa o histórico muito mais fácil de ler, entender e revisar.
