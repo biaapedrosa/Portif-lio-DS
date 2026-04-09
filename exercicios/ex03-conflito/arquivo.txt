@@ -1,1 +1,1 @@
-Linha 1 original
+Linha 1 modificada pela Branch B
