@@ -1,1 +1,1 @@
-Linha 1 modificada pela Branch A
+Linha 1 modificada - Conflito resolvido unindo as duas branches!
